@@ -1,12 +1,11 @@
+<head>
 <style>
-Header
-{
-color: red;
-}
+h1 {color:red;}
+p {color:blue;}
 </style>
-<script></script>
+</head>
 
-<Header>Scratching the memories</Header>
+<h1>Scratching the memories</h1>
 
 # gamerscove
 TO DO
