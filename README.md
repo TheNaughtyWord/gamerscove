@@ -1,6 +1,6 @@
 
 
-<h1 style="color:red">Scratching the memories</h1>
+<h1 style="color:#ccc;">Scratching the memories</h1>
 
 # gamerscove
 TO DO
